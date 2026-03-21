@@ -350,13 +350,6 @@ a {
     color: var(--text-primary);
 }
 
-.section-title span {
-    font-family: var(--font-mono);
-    color: var(--accent-neon);
-    font-size: 1.5rem;
-    margin-right: 1rem;
-}
-
 .section-title::after {
     content: '';
     height: 1px;
